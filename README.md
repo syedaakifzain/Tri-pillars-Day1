@@ -78,3 +78,15 @@ Tri-pillars-Day1/
 └── tp.iml
 🎯 Learning Objectives
 
+Through this Day 1 practice, I aimed to:
+
+Build a strong foundation in Java
+Improve logical thinking and problem-solving
+Understand control-flow statements
+Practice loops and nested loops
+Work with numbers and basic algorithms
+Understand Java type conversion
+Explore modern Java switch expressions
+Develop consistency through daily coding practice
+🚀 What's Next?
+
