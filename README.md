@@ -18,3 +18,47 @@ Basic problem-solving
 📚 Topics Covered
 🔢 Number-Based Programs
 
+Practice programs include:
+
+Armstrong Number
+Palindrome Number
+Happy Number
+Even or Odd Number
+Reverse a Number
+Swapping Values
+Other basic number manipulation problems
+🔄 Control Flow
+
+Hands-on practice with:
+
+if
+if-else
+else-if
+Nested conditions
+for loops
+while loops
+do-while loops
+switch
+🔺 Pattern Programming
+
+Different pattern-printing exercises were implemented to understand:
+
+Nested loops
+Row and column logic
+Number patterns
+Character patterns
+Basic problem-solving using loops
+🔄 Type Conversion
+
+The repository also includes examples of:
+
+Implicit type conversion
+Explicit type casting
+Converting values between different primitive data types
+⚡ Switch Expressions
+
+Exploration of modern Java switch functionality, including the use of:
+
+Arrow-style switch cases
+yield
+Returning values from switch expressions
