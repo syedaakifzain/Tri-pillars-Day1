@@ -90,3 +90,8 @@ Explore modern Java switch expressions
 Develop consistency through daily coding practice
 🚀 What's Next?
 
+This repository is part of a continuous Java learning journey. Future days will build upon these fundamentals and gradually introduce more advanced Java concepts, problem-solving techniques, and object-oriented programming.
+
+⭐ Learning Java one concept at a time.
+
+Part of the Tri-Pillars Java Practice Journey.
