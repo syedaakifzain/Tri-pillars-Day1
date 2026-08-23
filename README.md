@@ -62,3 +62,19 @@ Exploration of modern Java switch functionality, including the use of:
 Arrow-style switch cases
 yield
 Returning values from switch expressions
+
+🛠️ Technologies Used
+Java
+IntelliJ IDEA
+Git & GitHub
+📂 Project Structure
+Tri-pillars-Day1/
+│
+├── src/
+│   └── ...
+│
+├── .gitignore
+├── README.md
+└── tp.iml
+🎯 Learning Objectives
+
